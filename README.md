@@ -102,9 +102,10 @@ Seluruh angka di bawah ini bersumber langsung dari hasil rata-rata pengujian dan
 
 ---
 
-### 2. Tabel Detil: Computational Delay (Sign + Verify)
+### 2. Tabel Detail: Computational Delay (Sign + Verify)
 
 #### A. Menggunakan Fungsi Hash: SHA-256
+| ![Computational Delay Grouped SHA-256](assets/Computational%20Delay%20SHA-256.jpeg) |
 
 | Skema | Ukuran Kunci / Kurva | 50 Bytes | 100 Bytes | 150 Bytes | 200 Bytes | 250 Bytes | Rata-Rata |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,6 +117,7 @@ Seluruh angka di bawah ini bersumber langsung dari hasil rata-rata pengujian dan
 | **ElGamal** | 3072-bit | 191.95 | 191.86 | 191.86 | 192.14 | 192.36 | **192.034** |
 
 #### B. Menggunakan Fungsi Hash: SHA-384
+| ![Computational Delay Grouped SHA-384](assets/Computational%20Delay%20SHA-384.jpeg) |
 
 | Skema | Ukuran Kunci / Kurva | 50 Bytes | 100 Bytes | 150 Bytes | 200 Bytes | 250 Bytes | Rata-Rata |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -128,9 +130,10 @@ Seluruh angka di bawah ini bersumber langsung dari hasil rata-rata pengujian dan
 
 ---
 
-### 3. Tabel Detil: Transmission Delay (Latensi Komunikasi)
+### 3. Tabel Detail: Transmission Delay (Latensi Komunikasi)
 
 #### A. Menggunakan Fungsi Hash: SHA-256
+| ![Transmission Delay Grouped SHA-256](assets/Transmission%20Delay%20SHA-256.jpeg) |
 
 | Skema | Ukuran Kunci / Kurva | 50 Bytes | 100 Bytes | 150 Bytes | 200 Bytes | 250 Bytes | Rata-Rata |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -142,6 +145,7 @@ Seluruh angka di bawah ini bersumber langsung dari hasil rata-rata pengujian dan
 | **ElGamal** | 3072-bit | 134.71 | 134.65 | 134.87 | 135.08 | 134.91 | **134.844** |
 
 #### B. Menggunakan Fungsi Hash: SHA-384
+| ![Transmission Delay Grouped SHA-384](assets/Transmission%20Delay%20SHA-384.jpeg) |
 
 | Skema | Ukuran Kunci / Kurva | 50 Bytes | 100 Bytes | 150 Bytes | 200 Bytes | 250 Bytes | Rata-Rata |
 | --- | --- | --- | --- | --- | --- | --- | --- |
